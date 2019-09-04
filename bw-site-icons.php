@@ -2,6 +2,7 @@
 /**
  * Plugin Name: BW Site Icons
  * Plugin URI: https://blindemanwebsites.com/today-i-learned/
+ * Github plugin URI: https://github.com/Blindeman/bw-site-icons
  * Description: Lightweight and minimal set of icons that one might need on a website
  * Version: 0.0.1
  * Author: Naomi Blindeman
