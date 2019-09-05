@@ -7,8 +7,8 @@
  * Version: 0.0.1
  * Author: Naomi Blindeman
  * Author URI: https://blindemanwebsites.com/
- * License: GNU General Public License
- * License URI: https://www.gnu.org/licenses/gpl.html
+ * License: GNU General Public License 3.0
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
 
 defined( 'ABSPATH' ) or die;
