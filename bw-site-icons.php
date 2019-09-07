@@ -4,7 +4,7 @@
  * Plugin URI: https://blindemanwebsites.com/today-i-learned/
  * Github plugin URI: https://github.com/Blindeman/bw-site-icons
  * Description: Lightweight and minimal set of icons that one might need on a website
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Naomi Blindeman
  * Author URI: https://blindemanwebsites.com/
  * License: GNU General Public License 3.0
