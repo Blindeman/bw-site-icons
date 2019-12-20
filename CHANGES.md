@@ -1,3 +1,6 @@
+### 0.0.5 / December 19, 2019
+* Fix: show icons
+
 ### 0.0.4 / December 19, 2019
 * Changed the leaf icon from Entypo to Font Awesome 4.7.0
 

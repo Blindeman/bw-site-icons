@@ -1,7 +1,7 @@
 # BW Site Icons
 WordPress plugin
 Tested up to: 5.3.2
-Stable tag: 0.0.4
+Stable tag: 0.0.5
 License: GNU General Public License 3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -15,6 +15,9 @@ Included are: a leaf, open triangular arrows up, down, left, right, paper plane,
 All the icons with class names and codes
 
 ## Changelog
+
+### 0.0.5 / December 19, 2019
+* Fix: show icons
 
 ### 0.0.4 / December 19, 2019
 * Changed the leaf icon from Entypo to Font Awesome 4.7.0
