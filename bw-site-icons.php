@@ -3,7 +3,7 @@
  * Plugin Name: BW Site Icons
  * Plugin URI: https://blindeman.github.io/bw-site-icons/
  * Description: Lightweight and minimal set of 28 Entypo icons that one might need on a website
- * Version: 0.0.3
+ * Version: 0.0.4
  * Author: Naomi Blindeman
  * Author URI: https://blindemanwebsites.com/
  * License: GNU General Public License 3.0

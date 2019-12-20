@@ -2,7 +2,7 @@
 Contributors: Naomi Blindeman
 Tags: icons
 Tested up to: 5.3.2
-Stable tag: 0.0.3
+Stable tag: 0.0.4
 License: GNU General Public License 3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -17,6 +17,9 @@ Included are: a leaf, open triangular arrows up, down, left, right, paper plane,
 1. All the icons with class names and codes
 
 == Changelog ==
+
+= 0.0.4 / December 19, 2019 =
+* Changed the leaf icon from Entypo to Font Awesome 4.7.0
 
 = 0.0.3 / December 19, 2019 =
 * Added leaf, lamp, folder, globe, cancel, clock and location icon
