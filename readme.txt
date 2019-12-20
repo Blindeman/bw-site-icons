@@ -1,18 +1,20 @@
-# BW Site Icons
-WordPress plugin
+=== BW Site Icons ===
+Contributors: Naomi Blindeman
+Tags: icons
 Tested up to: 5.3.2
 Stable tag: 0.0.3
 License: GNU General Public License 3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-## Description
-Lightweight and minimal set of 28 Entypo icons in a Fontello kit that one might need on a website.
+Lightweight and minimal set of 28 Entypo icons from Fontello that one might need on a website
+
+== Description ==
+Lightweight and minimal set of 28 Entypo icons that one might need on a website.
 Included are: a leaf, open triangular arrows up, down, left, right, paper plane, tag, light bulb, globe, clock, search, folder, heart, star, empty star, check, cancel, link, dot, location, share, rss, github, linkedin, twitter, facebook, instagram, mail
 
-## Screenshots
+== Screenshots ==
 
-![Screenshot of all the included icons](screenshot.png)
-All the icons with class names and codes
+1. All the icons with class names and codes
 
 == Changelog ==
 
